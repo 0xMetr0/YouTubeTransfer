@@ -17,8 +17,8 @@ Tool to transfer likes, subscriptions, and playlists from one account to another
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/youtube-data-transfer.git
-   cd youtube-data-transfer
+   git clone https://github.com/B0nB0ned/YouTubeTransfer.git
+   cd YouTubeTransfer
    ```
 
 2. Install required packages:
